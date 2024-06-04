@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>My YouTube Videos</title>
+        <link>http://example.com</link>
+        <description>Latest videos from my channel</description>
+        <item>
+            <title>Introduction to Programming</title>
+            <link>http://youtube.com/watch?v=abcd1234</link>
+            <description>A beginner's guide to programming</description>
+        </item>
+        <item>
+            <title>Advanced Python Techniques</title>
+            <link>http://youtube.com/watch?v=wxyz5678</link>
+            <description>Deep dive into Python programming</description>
+        </item>
+    </channel>
+</rss>
